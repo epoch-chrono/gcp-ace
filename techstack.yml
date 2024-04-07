@@ -1,0 +1,20 @@
+repo_name: epoch-chrono/gcp-ace
+report_id: c7494a6011375e3e813e4a20e0d32a50
+version: 0.1
+repo_type: Public
+timestamp: '2024-04-07T17:07:06+00:00'
+requested_by: epoch-chrono
+provider: github
+branch: main
+detected_tools_count: 1
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/epoch-chrono/gcp-ace
+  detection_source: Repo Metadata
